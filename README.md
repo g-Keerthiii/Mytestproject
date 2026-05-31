@@ -1,4 +1,4 @@
-# Mytestproject
+# DebugDiary
 
 The first computer "bug" was a real bug 🐛
 
