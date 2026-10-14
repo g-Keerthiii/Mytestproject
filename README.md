@@ -1,7 +1,7 @@
 # DebugDiary
 
 The first computer "bug" was a real bug 🐛
-
+it was a reyal bug hehehehe
 In 1947, engineers working on the Harvard Mark II found that a moth had gotten stuck inside a relay, causing the machine to malfunction.
 
 They removed the moth and taped it into their logbook with the note:
